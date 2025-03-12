@@ -14,10 +14,10 @@ pip install -r requirements.txt
 ```
 - To install the userscript, go to the Violentmonkey dashboard, and click the `+` sign and select Install from URL, and input the following URL:
 ```
-<url>
+https://github.com/dharmik2319/genery-downloader/raw/refs/heads/master/genery-downloader.user.js
 ```
 
-- Or, click [here](url) and install the script from the Violentmonkey prompt.
+- Or, click [here](https://github.com/dharmik2319/genery-downloader/raw/refs/heads/master/genery-downloader.user.js) and install the script from the Violentmonkey prompt.
 
  
 ## Usage
